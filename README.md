@@ -5,9 +5,6 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
-**سایت پروژه:** [agrifarms.ir](https://agrifarms.ir)  
-**سال تولید:** ۲۰۲۵ میلادی / ۱۴۰۴ هجری شمسی  
-**مکان:** ارومیه، ایران  
 **GitHub:** [naserhha/agrifarm](https://github.com/naserhha/agrifarm)
 
 
