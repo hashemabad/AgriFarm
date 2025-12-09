@@ -68,6 +68,15 @@ The primary objective of the AgriFarm Smart Decision Support System for Agricult
 - Provides a decision support tool for sustainable resource planning and agricultural policy-making
 - Integrates with remote sensing and governmental databases for real-time water and energy monitoring
 
+## ✨ Key Features
+
+- AI-based water & energy consumption prediction  
+- Optimal crop recommendation  
+- Scenario simulation (economic + ecological)  
+- Smart dashboards  
+- Export to PDF/CSV  
+
+
 ### Expected Outcomes:
 
 Widespread adoption of AgriFarm is projected to reduce water overuse, promote sustainable resource management, enhance farmers' economic efficiency, and accelerate the ecological restoration of Lake Urmia.
