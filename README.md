@@ -5,15 +5,11 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
-**سایت پروژه:** [agrifarms.ir](https://agrifarms.ir)  
-**سال تولید:** ۲۰۲۵ میلادی / ۱۴۰۴ هجری شمسی  
-**مکان:** ارومیه، ایران  
-**GitHub:** [naserhha/agrifarm](https://github.com/naserhha/agrifarm)
 
 
 ## 📋 معرفی
 
-AgriFarm یک سامانه MVP برای کمک به کشاورزان و مدیران منابع کشاورزی است که:
+آگریفارم یک سامانه هوشمند برای کمک به کشاورزان و مدیران منابع کشاورزی است که:
 - مصرف آب و انرژی را بهینه می‌کند
 - محصول بهینه را پیشنهاد می‌دهد
 - سودآوری اقتصادی را مدیریت می‌کند
@@ -49,6 +45,10 @@ AgriFarm یک سامانه MVP برای کمک به کشاورزان و مدیر
 
 ## 🎯 Project Objective – AgriFarm (English, Technical Version)
 
+🌱 AgriFarm — Smart Farming Optimization  
+🚀 AI-based crop recommendation & water/energy prediction  
+📍 Target: Sustainable agriculture for Lake Urmia ecosystem
+
 The primary objective of the AgriFarm Smart Decision Support System for Agricultural Resource Management is to **optimize water and energy efficiency in agriculture while supporting the ecological restoration of Lake Urmia**. The platform leverages artificial intelligence algorithms, data analytics, and predictive modeling on soil, land, water, energy, climate, and crop patterns to enable scientific, data-driven decision-making and scenario simulations for farmers and resource managers.
 
 ### Mechanisms for Impact on Lake Urmia Restoration:
@@ -67,6 +67,14 @@ The primary objective of the AgriFarm Smart Decision Support System for Agricult
 - Locally adapted algorithms for the climatic and agricultural conditions of the Lake Urmia region
 - Provides a decision support tool for sustainable resource planning and agricultural policy-making
 - Integrates with remote sensing and governmental databases for real-time water and energy monitoring
+
+## ✨ Key Features
+
+- AI-based water & energy consumption prediction  
+- Optimal crop recommendation  
+- Scenario simulation (economic + ecological)  
+- Smart dashboards  
+- Export to PDF/CSV  
 
 ### Expected Outcomes:
 
