@@ -1,3 +1,83 @@
+# AgriFarm - Smart Agriculture Decision Support System
+
+## 🌾 Overview
+
+AgriFarm is a smart agriculture decision support system (DSS) designed as a Minimum Viable Product (MVP) to demonstrate decision-making capabilities, enable field testing, collect user feedback, and prepare a foundation for advanced algorithm development.
+
+This project is the result of research and development activities in the field of information systems and decision support for smart agriculture.
+
+## 🎯 Project Goals
+
+1. Demonstrate decision support capabilities
+2. Enable field testing
+3. Collect user feedback
+4. Prepare platform for advanced algorithm development
+
+## 🎓 Technical Expertise
+
+The project is based on a combination of the following technical areas:
+
+### 1. Information System Architecture Design
+- Software architecture design
+- Design patterns
+- Microservices and RESTful API architecture
+
+### 2. Big Data Analytics
+- Processing and analysis of agricultural data
+- Big data management
+- Query optimization
+
+### 3. Decision Support Modeling
+- Decision Support Systems (DSS)
+- Multi-criteria decision algorithms
+- Business modeling
+
+### 4. Predictive Algorithm Implementation
+- Machine Learning
+- Regression and prediction
+- Optimization algorithms
+
+### 5. Time Series Analysis
+- Water and energy consumption prediction
+- Trend analysis
+- Time modeling
+
+### 6. Analytical Dashboard Design
+- Data visualization
+- UX/UI design for end users
+- Reporting and analysis
+
+### 7. Web-based Prototype Development
+- Full-Stack development
+- React/Next.js for Frontend
+- FastAPI/Python for Backend
+- PostgreSQL for database
+
+## 📚 Academic Background
+
+This project combines knowledge and experience in:
+- Information Technology Management
+- Information Systems
+- Data Science and Analytics
+- Artificial Intelligence and Machine Learning
+- Software Design and Development
+
+## 📞 Contact
+
+For more information, please contact the lead developer:
+- **Mohammad Naser Haji Hashemabadi**
+- Email: [info@mohammadnasser.com](mailto:info@mohammadnasser.com)
+- Website: [mohammadnasser.com](https://mohammadnasser.com)
+
+## 📍 Location
+
+Developed in Urmia, Iran
+
+## 📅 Development Year
+
+2025 CE / 1404 Shamsi
+
+
 # توسعه‌دهندگان و مشارکت‌کنندگان
 
 ## 👨‍💻 توسعه‌دهنده اصلی
@@ -12,9 +92,9 @@
 - 📧 Email: info@mohammadnasser.com
 - 🌐 Website: [Mohammadnasser.com](https://mohammadnasser.com)
 - 🌾 Project Site: [agrifarms.ir](https://agrifarms.ir)
-- 💻 GitHub: [naserhha/agrifarm](https://github.com/naserhha/agrifarm)
+- 💻 GitHub: [naserhha](https://github.com/naserhha/agrifarm)
 
-**سال تولید:** ۲۰۲۵ میلادی / ۱۴۰۴ هجری شمسی  
+**سال تولید:** 2025 میلادی / 1404 هجری شمسی  
 **مکان:** ارومیه، ایران
 
 ## 🎓 تخصص‌ها و مهارت‌ها
