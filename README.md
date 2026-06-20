@@ -5,7 +5,7 @@
 [![Next.js](https://img.shields.io/badge/Next.js-14-black.svg)](https://nextjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104-green.svg)](https://fastapi.tiangolo.com/)
 
-| ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) | **AGRIFARM:** سامانه تصمیم یار هوشمند است که با ترکیب علوم داده، هوش مصنوعی و تحلیل سیستم های کشاورزی، امکان بهینه سازی مصرف آب و انرژی را فراهم می کند و نقش مهمی در احیای دریاچه ارومیه دارد|
+| ![آگریفارم](frontend/public/screenshots/AgriFarm.PNG) | **AGRIFARM:** سامانه تصمیم یار هوشمند است که با ترکیب علوم داده، هوش مصنوعی و ت[...] 
 |--------------------------------------------------------|--------------------------------------------------------|
 
 
@@ -14,36 +14,36 @@
 ## 📋 معرفی
 
 آگریفارم یک سامانه هوشمند برای کمک به کشاورزان و مدیران منابع کشاورزی است که:
-- مصرف آب و انرژی را بهینه می‌ کند
+- مصرف آب و انرژی را بهینه‌ می‌ کند
 - محصول بهینه را پیشنهاد می‌ دهد
-- سودآوری اقتصادی را مدیریت می‌ کند
+- سودآوری اقتصادی را مدیریت‌ می‌ کند
 
 این ایده مبتنی بر ترکیبی از تخصص در مدیریت فناوری اطلاعات، علوم داده و تحلیل سیستم‌ های هوشمند است.
 
 ## 🎯 هدف اصلی پروژه
 
-هدف اصلی سامانه تصمیم‌ یار هوشمند مدیریت منابع کشاورزی (AgriFarm)، **بهینه‌ سازی بهره‌ وری منابع آب و انرژی در کشاورزی و حمایت از احیای اکوسیستم دریاچه ارومیه** است. این سامانه با استفاده از الگوریتم‌ های هوش مصنوعی، تحلیل داده‌ های زمین، خاک، منابع آب و انرژی، اقلیم و الگوی کشت، امکان تصمیم‌ گیری علمی، داده‌ محور و شبیه‌ سازی سناریو های مختلف کشاورزی را برای کشاورزان و مدیران منابع فراهم می‌ آورد.
+هدف اصلی سامانه تصمیم‌ یار هوشمند مدیریت منابع کشاورزی (AgriFarm)، **بهینه‌ سازی بهره‌ وری منابع آب و انرژی در ک[...] 
 
 ### مکانیسم تأثیر بر احیای دریاچه ارومیه:
 
-- **مدیریت مصرف آب**: سامانه با پیش‌بینی دقیق نیاز آبی محصولات و شبیه‌سازی سناریوهای کم‌آب‌بر، از برداشت غیرمجاز و مصرف بی‌رویه آب جلوگیری می‌ کند.
+- **مدیریت مصرف آب**: سامانه با پیش‌بینی دقیق نیاز آبی محصولات و شبیه‌سازی سناریوهای کم‌آب‌بر، از برداشت غی[...] 
 
-- **بهینه‌ سازی انرژی و منابع**: الگوریتم‌ها میزان مصرف برق و انرژی مربوط به آبیاری را کاهش داده و بهره‌وری عملیاتی را افزایش می‌ دهند.
+- **بهینه‌ سازی انرژی و منابع**: الگوریتم‌ها میزان مصرف برق و انرژی مربوط به آبیاری را کاهش داده و بهره‌وری ع[...] 
 
-- **انتخاب محصول کم‌ آب‌ بر و سودآور**: توصیه‌های داده‌محور برای انتخاب محصول با حداقل مصرف آب و حداکثر بازده اقتصادی ارائه می‌ شود.
+- **انتخاب محصول کم‌ آب‌ بر و سودآور**: توصیه‌های داده‌محور برای انتخاب محصول با حداقل مصرف آب و حداکثر بازد[...] 
 
-- **پیش‌ بینی و سناریوسازی اقتصادی و اکولوژیک**: امکان شبیه‌سازی اثر تغییرات اقلیمی، میزان بارش و دسترسی به منابع بر تولید و مصرف آب فراهم است.
+- **پیش‌ بینی و سناریوسازی اقتصادی و اکولوژیک**: امکان شبیه‌سازی اثر تغییرات اقلیمی، میزان بارش و دسترسی به م[...] 
 
 ### ویژگی‌ های علمی و نوآورانه:
 
-- استفاده از مدل‌های پیش‌بینی مبتنی بر داده‌های چندمنظوره (Multivariate Data Modeling) و یادگیری ماشین برای مدیریت منابع آب
+- استفاده از مدل‌های پیش‌بینی مبتنی بر داده‌های چندمنظوره (Multivariate Data Modeling) و یادگیری ماشین برای مدیریت منا... 
 - بومی‌سازی الگوریتم‌ها برای شرایط اقلیمی و کشاورزی منطقه دریاچه ارومیه
 - ارائه تصمیم‌یار هوشمند برای سیاست‌گذاری منابع و برنامه‌ریزی بهره‌برداری پایدار
 - قابلیت اتصال به پایگاه‌های داده دولتی و سنجش از راه دور برای داده‌های آب و انرژی
 
 ### نتیجه مورد انتظار:
 
-استفاده گسترده از سامانه AgriFarm موجب کاهش برداشت بی‌رویه آب، مدیریت پایدار منابع، افزایش بهره‌وری اقتصادی کشاورزان و تسریع روند احیای اکوسیستم دریاچه ارومیه خواهد شد.
+استفاده گسترده از سامانه AgriFarm موجب کاهش برداشت بی‌رویه آب، مدیریت پایدار منابع، افزایش بهره‌وری اقتصادی ک[...] 
 
 ---
 
@@ -53,7 +53,7 @@
 🚀 AI-based crop recommendation & water/energy prediction  
 📍 Target: Sustainable agriculture for Lake Urmia ecosystem
 
-The primary objective of the AgriFarm Smart Decision Support System for Agricultural Resource Management is to **optimize water and energy efficiency in agriculture while supporting the ecological restoration of Lake Urmia**. The platform leverages artificial intelligence algorithms, data analytics, and predictive modeling on soil, land, water, energy, climate, and crop patterns to enable scientific, data-driven decision-making and scenario simulations for farmers and resource managers.
+The primary objective of the AgriFarm Smart Decision Support System for Agricultural Resource Management is to **optimize water and energy efficiency in agriculture while supporting the ecological[...] 
 
 ### Mechanisms for Impact on Lake Urmia Restoration:
 
@@ -82,7 +82,7 @@ The primary objective of the AgriFarm Smart Decision Support System for Agricult
 
 ### Expected Outcomes:
 
-Widespread adoption of AgriFarm is projected to reduce water overuse, promote sustainable resource management, enhance farmers' economic efficiency, and accelerate the ecological restoration of Lake Urmia.
+Widespread adoption of AgriFarm is projected to reduce water overuse, promote sustainable resource management, enhance farmers' economic efficiency, and accelerate the ecological restoration of La[...] 
 
 ---
 
@@ -160,18 +160,16 @@ Frontend در `http://localhost:3000` اجرا می‌شود.
 
 | نما | توضیحات |
 | --- | --- |
-| ![صفحه خانه](frontend/public/screenshots/01-home.png) | **خانه:** معرفی هدف پروژه، CTA برای افزودن مزرعه و مشاهده داشبورد، آمار خلاصه و بلوک‌های مزیت‌ها |
-| ![لیست مزارع](frontend/public/screenshots/02-farms.png) | **لیست مزارع:** کارت‌های خلاصه مزرعه با مساحت، نوع خاک، موقعیت و دسترسی به جزئیات/توصیه‌ها |
+| ![صفحه خانه](frontend/public/screenshots/01-home.png) | **خانه:** معرفی هدف پروژه، CTA برای افزودن مزرعه و مشاهده داشبورد، آمار خل�[...] 
+| ![لیست مزارع](frontend/public/screenshots/02-farms.png) | **لیست مزارع:** کارت‌های خلاصه مزرعه با مساحت، نوع خاک، موقعیت و دسترس�[...] 
 | ![لیست مزارع خالی](frontend/public/screenshots/03-farms-empty.png) | **لیست مزارع (خالی):** دعوت به ثبت اولین مزرعه با CTA سبز |
-| ![ایجاد مزرعه جدید](frontend/public/screenshots/04-farm-create.png) | **فرم ایجاد مزرعه:** ورودی مساحت، نوع خاک، موقعیت، مختصات و منابع آب/انرژی |
-| ![مزرعه گندم احمد](frontend/public/screenshots/05-farm-wheat.png) | **جزئیات مزرعه گندم احمد:** پیش‌بینی مصرف ۳۰ روزه آب/انرژی و اطلاعات پایه مزرعه |
-| ![مزرعه سبزیجات احمد](frontend/public/screenshots/06-farm-veggies.png) | **جزئیات مزرعه سبزیجات احمد:** مقادیر مصرف و مشخصات مزرعه (خاک رس، منبع آب رودخانه، انرژی خورشیدی) |
-| ![مزرعه ذرت فاطمه](frontend/public/screenshots/07-farm-corn.png) | **جزئیات مزرعه ذرت فاطمه:** پیش‌بینی مصرف برای مزرعه شنی با منبع آب سد |
-| ![توصیه محصول گندم](frontend/public/screenshots/08-reco-wheat.png) | **توصیه محصول برای مزرعه گندم احمد:** فهرست محصولات پیشنهادی با امتیاز اطمینان، مصرف آب/انرژی و سود پیش‌بینی‌شده |
-| ![توصیه محصول سبزیجات](frontend/public/screenshots/09-reco-veggies.png) | **توصیه محصول برای مزرعه سبزیجات احمد:** گزینه‌های کشت با سود و هزینه منابع متناسب با خاک رس |
-| ![توصیه محصول ذرت](frontend/public/screenshots/10-reco-corn.png) | **توصیه محصول برای مزرعه ذرت فاطمه:** سناریوهای کشت روی خاک شنی با برآورد سود و منابع |
-| ![داشبورد مدیریتی](frontend/public/screenshots/11-dashboard.png) | **داشبورد مدیریتی:** آمار تعداد مزارع، مساحت کل، مصرف آب/انرژی و نمودارهای ماهانه |
-| ![مستندات API](frontend/public/screenshots/12-api-swagger.png) | **Swagger UI:** لیست اندپوینت‌های API (مزارع، محصولات، پیش‌بینی‌ها، توصیه‌ها و داشبورد) برای تست سریع |
+| ![ایجاد مزرعه جدید](frontend/public/screenshots/04-farm-create.png) | **فرم ایجاد مزرعه:** ورودی مساحت، نوع خاک، موقعیت، مختصات و من[...] 
+| ![مزرعه گندم احمد](frontend/public/screenshots/05-farm-wheat.png) | **جزئیات مزرعه گندم احمد:** پیش‌بینی مصرف ۳۰ روزه آب/انرژی و اط�[...] 
+| ![مزرعه سبزیجات احمد](frontend/public/screenshots/06-reco-veggies.png) | **جزئیات مزرعه سبزیجات احمد:** مقادیر مصرف و مشخصات مزرعه (�[...] 
+| ![مزرعه ذرت فاطمه](frontend/public/screenshots/07-reco-corn.png) | **توصیه محصول ذرت:** سناریوهای کشت روی خاک شنی �[...] 
+| ![توصیه محصول گندم](frontend/public/screenshots/08-reco-wheat.png) | **توصیه محصول برای مزرعه گندم احمد:** فهرست محصولات پیشنهادی ب[...] 
+| ![داشبورد مدیریتی](frontend/public/screenshots/11-dashboard.png) | **داشبورد مدیریتی:** آمار تعداد مزارع، مساحت کل، مصرف آب/انرژی �[...] 
+| ![مستندات API](frontend/public/screenshots/12-api-swagger.png) | **Swagger UI:** لیست اندپوینت‌های API (مزارع، محصولات، پیش‌بینی‌ها، توصی[...] 
 
 ## 🔗 API Documentation
 
@@ -222,6 +220,12 @@ cp frontend/.env.example frontend/.env.local
 **محمد ناصر حاجی هاشم‌آباد**  
 📧 Email: info@mohammadnasser.com  
 🌐 Website: [Mohammadnasser.com](https://mohammadnasser.com)
+
+### شبکه‌های اجتماعی
+- LinkedIn: https://www.linkedin.com/in/mnhashemabadi/
+- X: https://x.com/mnhashemabadi
+- Telegram: https://t.me/mnhashemabadi
+- GitHub: https://github.com/mnhashemabadi
 
 **تحصیلات:** کارشناسی ارشد مدیریت فناوری اطلاعات – دانشگاه علم و صنعت ایران
 
